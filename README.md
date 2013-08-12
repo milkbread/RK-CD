@@ -1,4 +1,4 @@
 RK-CD
 =====
 
-Icons, Favicons, etc ... everything of my CD
+Icons, Favicons, etc ... everything of my CorporateDesign
